@@ -26,6 +26,10 @@ p{
     color: rgb(63, 27, 2);
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
-    text-align: justify;
-    
+    text-align: justify;   
+}
+img{
+    width: 250px;
+    display:block;
+    margin: 0 auto;
 }
