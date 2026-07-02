@@ -22,3 +22,10 @@ h2 {
     margin-top: 45px;
     margin-bottom: 15px;
 }
+p{
+    color: rgb(63, 27, 2);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: justify;
+    
+}
